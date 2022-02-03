@@ -9,9 +9,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/https://codepen.io/ibrahim4220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/ibrahim4220" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/halil-ibrahim-soyman-473a82198/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/halil-ibrahim-soyman-473a82198/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/halilibrahim_so1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/halilibrahim_so1" height="30" width="40" /></a>
+<a href="https://codepen.io/@ibrahim4220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@ibrahim4220" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/halil i̇brahim soyman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="halil i̇brahim soyman" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@halilibrahim_so1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@halilibrahim_so1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
