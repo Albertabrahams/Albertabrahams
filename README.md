@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=albertabrahams" alt="albertabrahams" /></a> </p>
 
-- 🔭 I’m currently working on **Next.js-Django REST**
+- 🔭 I’m currently working on **Django REST**
 
 - 📫 How to reach me **halilibrahim.soyman@gmail.com**
 
